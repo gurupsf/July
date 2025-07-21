@@ -1,0 +1,6 @@
+	Description	Number	ID	IDDescriptionStr
+	Easiest	1	1	1 - Easiest
+	Easy	2	2	2 - Easy
+	Normal	3	3	3 - Normal
+	Hard	4	4	4 - Hard
+	Hardest	5	5	5 - Hardest
